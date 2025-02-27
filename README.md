@@ -1,4 +1,4 @@
-# Project Overview
+# Project Overview.
 
 *Yellow Taxicabs are the only vehicles that have the right to pick up street-hailing and prearranged passengers anywhere in New York City. My objective is upload the collected dataset to hadoop ecosytem, analyse, and explore the uploaded dataset while answering some important questions.*
 
